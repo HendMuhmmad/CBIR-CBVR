@@ -6,7 +6,7 @@
 
 # To run the project:
 
-1. In your virtual environment run pip install -r reqs.txt to install the required dependencies.
+1. In your virtual environment run pip install -r req.txt to install the required dependencies.
 2. create an empty folder named videoKeyFrames
 3. In DatabaseFunctions_v2.py change the username and password in mysql connector to your mysql username and password.
 4. Run the script DatabaseFunctions_v2.py to create the database with its tables and populate it.
