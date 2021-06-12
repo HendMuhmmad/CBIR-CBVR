@@ -1,0 +1,6 @@
+mysql-connector-python
+pymysql
+numpy
+video-kf
+opencv-python
+pyqt5
